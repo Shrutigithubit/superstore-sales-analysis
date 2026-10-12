@@ -39,4 +39,6 @@ This repository contains the project dataset and analysis files. Explore the fil
 - Business insight generation
 
 ## Author
-**Shr
+Shruti Daulat Lokhande
+
+Aspiring Data Analyst | Python | SQL | Excel | Data Visualization
